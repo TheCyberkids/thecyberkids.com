@@ -1,0 +1,4 @@
+1. added more testimony
+2. change facebook link
+3. changed the name of testimony in index page
+4. changed copyright year
